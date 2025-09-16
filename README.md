@@ -52,7 +52,7 @@ Actualmente me encuentro:
 
 ---
 
-## ✨ Frase que me inspira  
+## ✨ Frase motivadora
 
 > Es 100% seguro que pierdas si no lo intentas, pero si lo intentas, ese porcentaje cambia a tu favor.  
 
