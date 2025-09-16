@@ -1,7 +1,7 @@
-# 👋 Hola, Bienvenido a mi perfil de GitHub  
+# 👋 Bienvenido a mi perfil   
 
 Soy **estudiante de Ingeniería de Sistemas** con interés en el desarrollo de software, especialmente en el área **web**.  
-Me considero una persona **responsable, comprometida y apasionada por aprender** nuevas tecnologías que me permitan aportar soluciones efectivas y de calidad en los proyectos en los que participo.  
+Soy una persona **responsable, comprometida que trabaja de manera correspondiente en trabajos en equipo y apasionada por aprender** nuevas tecnologías que me permitan aportar soluciones efectivas y de calidad en los proyectos en los que participo.  
 
 ---
 
@@ -54,13 +54,14 @@ Actualmente me encuentro:
 
 ## ✨ Frase que me inspira  
 
-> *“Es 100% seguro que pierdas si no lo intentas, pero si lo intentas, ese porcentaje cambia a tu favor.”*  
+> Es 100% seguro que pierdas si no lo intentas, pero si lo intentas, ese porcentaje cambia a tu favor.  
 
 ---
 
 ## 📫 Cómo contactarme  
 
-- ✉️ **Correo:** [tuemail@ejemplo.com]  
-- 💼 **LinkedIn:** [Tu perfil de LinkedIn]  
-
+- ✉️ **Correo: tomasrg22344@gmail.com  
+- 💼 **LinkedIn: Tomas Rodriguez  
+- 📲 **Whatsapp: https://wa.me/573053733781
+- 🚀 **Instagram: https://www.instagram.com/tomrg_12/
 ---
